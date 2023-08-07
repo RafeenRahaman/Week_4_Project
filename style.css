@@ -1,0 +1,46 @@
+#top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(77, 6, 229);
+    align-items: center;
+    border-bottom: solid rgb(21, 5, 90) 5px;
+    border-radius: 10px 10px 10px 10px;
+}
+#logo {
+    margin-left: 50px;
+}
+.navBtn {
+    background-image: linear-gradient(rgb(114, 62, 220), rgb(79, 12, 212));
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px 10px 10px 10px;
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+}
+.navBtn:hover {
+    background-color: yellow;
+}
+body {
+    background-color: rgb(70, 138, 232);
+}
+#welcome {
+    font-family: Chalkduster, fantasy;
+    color: white;
+    border-bottom: dashed white 1px;
+    border-top: dashed white 1px;
+    margin-top: 10px;
+}
+#welcome1 {
+    margin-left:0px;
+}
+#welcome2 {
+    margin-left:0px;
+}
+#welcome3 {
+    margin-left:0px;
+}
